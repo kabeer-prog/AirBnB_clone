@@ -269,7 +269,14 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 
 ## 0x06 Authors
 * Kabeer Akanni
-* Ismail Jamiu Babatunde 
+<details>
+    <summary>Jamiu Ismail</summary>
+    <ul>
+    <li><a href="https://www.github.com/phantware">Github</a></li>
+    <li><a href="https://twitter.com/IsmailJamiuBab1">Twitter</a></li>
+    <li><a href="mailto:phantmoney2011@gmail.com">E-Mail</a></li>
+    </ul>
+</details>
 
 
 
